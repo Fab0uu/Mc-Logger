@@ -1,0 +1,7 @@
+modLoader="javafml" # Ne changez pas cette ligne
+loaderVersion="[40,)" # La version minimale de Forge
+license="MIT"
+[[mods]]
+modId="mclogger" # L'identifiant unique de votre mod
+version="0.1.0"
+displayName="Mc-Logger"
